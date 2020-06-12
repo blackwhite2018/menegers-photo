@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/menegers-photo/static/css/main.392a17f8.chunk.css",
+    "main.js": "/menegers-photo/static/js/main.cf81905f.chunk.js",
+    "main.js.map": "/menegers-photo/static/js/main.cf81905f.chunk.js.map",
+    "runtime-main.js": "/menegers-photo/static/js/runtime-main.f74028f0.js",
+    "runtime-main.js.map": "/menegers-photo/static/js/runtime-main.f74028f0.js.map",
+    "static/js/2.6209c392.chunk.js": "/menegers-photo/static/js/2.6209c392.chunk.js",
+    "static/js/2.6209c392.chunk.js.map": "/menegers-photo/static/js/2.6209c392.chunk.js.map",
+    "index.html": "/menegers-photo/index.html",
+    "precache-manifest.72ab285487d75703bad6200d6979f38e.js": "/menegers-photo/precache-manifest.72ab285487d75703bad6200d6979f38e.js",
+    "service-worker.js": "/menegers-photo/service-worker.js",
+    "static/css/main.392a17f8.chunk.css.map": "/menegers-photo/static/css/main.392a17f8.chunk.css.map",
+    "static/js/2.6209c392.chunk.js.LICENSE.txt": "/menegers-photo/static/js/2.6209c392.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f74028f0.js",
+    "static/js/2.6209c392.chunk.js",
+    "static/css/main.392a17f8.chunk.css",
+    "static/js/main.cf81905f.chunk.js"
+  ]
+}
